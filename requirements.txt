@@ -1,4 +1,3 @@
 python-telegram-bot
 SQLAlchemy
 psycopg2-binary
-models.db
